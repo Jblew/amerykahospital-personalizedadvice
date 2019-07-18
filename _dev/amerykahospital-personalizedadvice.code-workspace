@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"editor.rulers": [
+			110,
+			120
+		],
+		"git.ignoreLimitWarning": true
+	}
+}
