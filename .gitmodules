@@ -1,15 +1,15 @@
 [submodule "amerykahospital-personalizedadvice-serverless"]
 	path = amerykahospital-personalizedadvice-serverless
-	url = https://github.com/Jblew/amerykahospital-personalizedadvice-serverless
+	url = git@github.com:Jblew/amerykahospital-personalizedadvice-serverless
 [submodule "amerykahospital-personalizedadvice-website"]
 	path = amerykahospital-personalizedadvice-website
-	url = https://github.com/Jblew/amerykahospital-personalizedadvice-website
+	url = git@github.com:Jblew/amerykahospital-personalizedadvice-website
 [submodule "amerykahospital-personalized-allergology-advice-app"]
 	path = amerykahospital-personalized-allergology-advice-app
-	url = https://github.com/Jblew/amerykahospital-personalized-allergology-advice-app
+	url = git@github.com:Jblew/amerykahospital-personalized-allergology-advice-app
 [submodule "amerykahospital-personalizedadvice-core"]
 	path = amerykahospital-personalizedadvice-core
-	url = https://github.com/Jblew/amerykahospital-personalizedadvice-core
+	url = git@github.com:Jblew/amerykahospital-personalizedadvice-core
 [submodule "amerykahospital-personalized-advice-client-android"]
 	path = amerykahospital-personalized-advice-client-android
-	url = https://github.com/Jblew/amerykahospital-personalized-advice-client-android
+	url = git@github.com:Jblew/amerykahospital-personalized-advice-client-android
