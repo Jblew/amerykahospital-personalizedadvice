@@ -1,15 +1,20 @@
 [submodule "amerykahospital-personalizedadvice-serverless"]
 	path = amerykahospital-personalizedadvice-serverless
 	url = git@github.com:Jblew/amerykahospital-personalizedadvice-serverless
+	branch = master
 [submodule "amerykahospital-personalizedadvice-website"]
 	path = amerykahospital-personalizedadvice-website
 	url = git@github.com:Jblew/amerykahospital-personalizedadvice-website
+	branch = master
 [submodule "amerykahospital-personalized-allergology-advice-app"]
 	path = amerykahospital-personalized-allergology-advice-app
 	url = git@github.com:Jblew/amerykahospital-personalized-allergology-advice-app
+	branch = master
 [submodule "amerykahospital-personalizedadvice-core"]
 	path = amerykahospital-personalizedadvice-core
 	url = git@github.com:Jblew/amerykahospital-personalizedadvice-core
+	branch = master
 [submodule "amerykahospital-personalized-advice-client-android"]
 	path = amerykahospital-personalized-advice-client-android
 	url = git@github.com:Jblew/amerykahospital-personalized-advice-client-android
+	branch = master
