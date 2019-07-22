@@ -1,9 +1,7 @@
 {
-	"folders": [
-		{
-			"path": "."
-		}
-	],
+	"folders": [{
+		"path": ".."
+	}],
 	"settings": {
 		"editor.rulers": [
 			110,
