@@ -1,0 +1,10 @@
+#!/bin/sh
+
+COMMIT_NAME=$(git log -1 --pretty=%B)
+SUBMODULE_NAME=${PWD##*/}
+
+echo "commit: '$COMMIT_NAME', submodule: '$SUBMODULE_NAME', pwd: '$PWD', cmd 'git add \"$SUBMODULE_NAME\"'"
+
+
+git --work-tree=$PWD/.. --git-dir=$PWD/../.git add "$SUBMODULE_NAME"
+# GIT_DIR="${PWD}/.git" git commit -m "sm ${SUBMODULE_NAME}: ${COMMIT_NAME}"
