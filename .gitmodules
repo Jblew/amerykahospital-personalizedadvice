@@ -22,3 +22,6 @@
 	path = amerykahospital-personalizedadvice-vue-commons
 	url = git@github.com:Jblew/amerykahospital-personalizedadvice-vue-commons.git
 	branch = master
+[submodule "amerykahospital-personalizedadvice-medicalprofessional-app"]
+	path = amerykahospital-personalizedadvice-medicalprofessional-app
+	url = git@github.com:Jblew/amerykahospital-personalizedadvice-medicalprofessional-app.git
