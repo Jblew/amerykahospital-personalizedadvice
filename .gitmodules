@@ -18,3 +18,6 @@
 	path = amerykahospital-personalized-advice-client-android
 	url = git@github.com:Jblew/amerykahospital-personalized-advice-client-android
 	branch = master
+[submodule "amerykahospital-personalizedadvice-vue-commons"]
+	path = amerykahospital-personalizedadvice-vue-commons
+	url = git@github.com:Jblew/amerykahospital-personalizedadvice-vue-commons.git
