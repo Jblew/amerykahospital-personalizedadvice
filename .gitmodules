@@ -21,3 +21,4 @@
 [submodule "amerykahospital-personalizedadvice-vue-commons"]
 	path = amerykahospital-personalizedadvice-vue-commons
 	url = git@github.com:Jblew/amerykahospital-personalizedadvice-vue-commons.git
+	branch = master
