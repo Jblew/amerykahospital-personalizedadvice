@@ -25,3 +25,4 @@
 [submodule "amerykahospital-personalizedadvice-medicalprofessional-app"]
 	path = amerykahospital-personalizedadvice-medicalprofessional-app
 	url = git@github.com:Jblew/amerykahospital-personalizedadvice-medicalprofessional-app.git
+	branch = master
