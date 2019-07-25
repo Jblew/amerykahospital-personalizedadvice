@@ -6,10 +6,6 @@
 	path = amerykahospital-personalizedadvice-website
 	url = git@github.com:Jblew/amerykahospital-personalizedadvice-website
 	branch = master
-[submodule "amerykahospital-personalized-allergology-advice-app"]
-	path = amerykahospital-personalized-allergology-advice-app
-	url = git@github.com:Jblew/amerykahospital-personalized-allergology-advice-app
-	branch = master
 [submodule "amerykahospital-personalizedadvice-core"]
 	path = amerykahospital-personalizedadvice-core
 	url = git@github.com:Jblew/amerykahospital-personalizedadvice-core
