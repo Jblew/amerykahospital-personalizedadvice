@@ -22,3 +22,15 @@
 	path = amerykahospital-personalizedadvice-medicalprofessional-app
 	url = git@github.com:Jblew/amerykahospital-personalizedadvice-medicalprofessional-app.git
 	branch = master
+[submodule "typescript-chained-error"]
+	path = typescript-chained-error
+	url = git@github.com:Jblew/typescript-chained-error.git
+	branch = master
+[submodule "firebase-functions-rate-limiter"]
+	path = firebase-functions-rate-limiter
+	url = git@github.com:Jblew/firebase-functions-rate-limiter.git
+	branch = master
+[submodule "firestore-roles"]
+	path = firestore-roles
+	url = git@github.com:Jblew/firestore-roles.git
+	branch = master
