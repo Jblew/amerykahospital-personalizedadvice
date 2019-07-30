@@ -34,3 +34,7 @@
 	path = firestore-roles
 	url = git@github.com:Jblew/firestore-roles.git
 	branch = master
+[submodule "firestore-roles-manager-ui"]
+	path = firestore-roles-manager-ui
+	url = git@github.com:Jblew/firestore-roles-manager-ui.git
+	branch = master
