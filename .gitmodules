@@ -41,6 +41,8 @@
 [submodule "amerykahospital-personalizedadvice-medicalprofessional-macos"]
 	path = amerykahospital-personalizedadvice-medicalprofessional-macos
 	url = git@github.com:Jblew/amerykahospital-personalizedadvice-medicalprofessional-macos.git
+	branch = master
 [submodule "amerykahospital-personalizedadvice-medicalprofessional-windows"]
 	path = amerykahospital-personalizedadvice-medicalprofessional-windows
 	url = git@github.com:Jblew/amerykahospital-personalizedadvice-medicalprofessional-windows.git
+	branch = master
