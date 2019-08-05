@@ -7,6 +7,11 @@
 			110,
 			120
 		],
-		"git.ignoreLimitWarning": true
+		"git.ignoreLimitWarning": true,
+		"prettier.semi": true,
+		"prettier.singleQuote": false,
+		"prettier.trailingComma": "all",
+		"prettier.printWidth": 120,
+		"prettier.tabWidth": 4,
 	}
 }
