@@ -46,3 +46,11 @@
 	path = amerykahospital-personalizedadvice-medicalprofessional-windows
 	url = git@github.com:Jblew/amerykahospital-personalizedadvice-medicalprofessional-windows.git
 	branch = master
+[submodule "vuex-notifications-module"]
+	path = vuex-notifications-module
+	url = git@github.com:Jblew/vuex-notifications-module.git
+	branch = master
+[submodule "firestore-roles-vuex-module"]
+	path = firestore-roles-vuex-module
+	url = git@github.com:Jblew/firestore-roles-vuex-module.git
+	branch = master
