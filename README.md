@@ -29,7 +29,7 @@ Ameryka is a small village in the Lake District of Poland. It had been named by 
 - Deep link system: Firebase dynamic links
 - Role management: a Vue SPA: [firestore-roles-manager-ui](https://github.com/Jblew/firestore-roles-manager-ui) deployed to the firebase hosting
 - App for medical professionals: a dedicated Vue SPA: [amerykahospital-personalizedadvice-medicalprofessional-app](https://github.com/Jblew/amerykahospital-personalizedadvice-medicalprofessional-app)
-- Mobile app: native Android app: [amerykahospital-personalized-advice-android](https://github.com/Jblew/amerykahospital-personalized-advice-android) released on Play store
+- Mobile app: native Android app: [amerykahospital-personalized-advice-client-android](https://github.com/Jblew/amerykahospital-personalized-advice-client-android) released on Play store
 - SMS Sending: Firebase functions [amerykahospital-personalizedadvice-serverless](https://github.com/Jblew/amerykahospital-personalizedadvice-serverless) that communicate with SMSAPI
 
 
@@ -81,4 +81,4 @@ Warmly welcomed:
 
 Made with ❤️ by [Jędrzej Lewandowski](https://jedrzej.lewandowski.doctor/):
 
-![Author of the app](docs/assets/author.jpg)
+![Jędrzej Lewandowski — author of the app](docs/assets/author.jpg)
