@@ -58,6 +58,8 @@ All modules are deployed with CI, tested and currently working.
 
 ### Android app
 
+**[App in Play Store](https://play.google.com/store/apps/details?id=pl.com.ameryka.aplikacja)** (PL)
+
 ![Google play](docs/assets/google-play-recommended-screen-1.png)
 
 
