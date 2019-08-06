@@ -31,6 +31,7 @@ Ameryka is a small village in the Lake District of Poland. It had been named by 
 - App for medical professionals: a dedicated Vue SPA: [amerykahospital-personalizedadvice-medicalprofessional-app](https://github.com/Jblew/amerykahospital-personalizedadvice-medicalprofessional-app)
 - Mobile app: native Android app: [amerykahospital-personalized-advice-client-android](https://github.com/Jblew/amerykahospital-personalized-advice-client-android) released on Play store
 - SMS Sending: Firebase functions [amerykahospital-personalizedadvice-serverless](https://github.com/Jblew/amerykahospital-personalizedadvice-serverless) that communicate with SMSAPI
+- Deployment and continous integration: Travis CI + NPM
 
 
 
@@ -57,6 +58,24 @@ Ameryka is a small village in the Lake District of Poland. It had been named by 
 ### Website
 
 ![website](docs/assets/website.png)
+
+
+
+## Legal info
+
+This is a free software. Some of the modules are released under GPL-3.0-or-later license while the others are under MIT license. It is denoted separateli in each repository.
+
+**No responsibility of the author**: both licenses state that the author of the software do not provide any warranty on the software nor its functioning nor any situations caused by the functioning of the software. Author is not liable. Nevertheless, In his freedom, the author puts much effort to make the system useful and ensure its proper functioning.
+
+
+
+## Author vs Operator vs ADO (personal data administrator)
+
+- [Jędrzej Lewandowski](https://jedrzej.lewandowski.doctor/) is the author of the system
+- Voievodship Rehabilitation Hospital for Children in Ameryka is the operator of the system
+- Operator of the system is the entity that processes personal data and the operator has designeted an ADO.
+
+## 
 
 
 
