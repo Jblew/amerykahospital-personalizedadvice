@@ -35,7 +35,7 @@ Ameryka is a small village in the Lake District of Poland. It had been named by 
 
 
 
-##Subprojects
+## Subprojects
 
 - [amerykahospital-personalizedadvice](https://github.com/Jblew/amerykahospital-personalizedadvice) — main repository that encompasses the others as a git submodules. It defines the development workspace. Also, the libraries that were developed in the course of developing this project were included.
 - [amerykahospital-personalizedadvice-core](https://github.com/Jblew/amerykahospital-personalizedadvice-core) — holds configuration of the project and the model and ORM for advices
