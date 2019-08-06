@@ -50,7 +50,7 @@ Ameryka is a small village in the Lake District of Poland. It had been named by 
 
 ### Role management app
 
-
+![roles-ui](docs/assets/roles-ui.jpg)
 
 
 
