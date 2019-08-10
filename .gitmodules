@@ -3,7 +3,7 @@
 	url = git@github.com:Jblew/amerykahospital-personalizedadvice-serverless
 	branch = master
 [submodule "amerykahospital-personalizedadvice-website"]
-	path = amerykahospital-personalizedadvice-website
+	path = website
 	url = git@github.com:Jblew/amerykahospital-personalizedadvice-website
 	branch = master
 [submodule "amerykahospital-personalizedadvice-core"]
@@ -15,11 +15,11 @@
 	url = git@github.com:Jblew/amerykahospital-personalized-advice-client-android
 	branch = master
 [submodule "amerykahospital-personalizedadvice-vue-commons"]
-	path = amerykahospital-personalizedadvice-vue-commons
+	path = vue-commons
 	url = git@github.com:Jblew/amerykahospital-personalizedadvice-vue-commons.git
 	branch = master
 [submodule "amerykahospital-personalizedadvice-medicalprofessional-app"]
-	path = amerykahospital-personalizedadvice-medicalprofessional-app
+	path = medicalprofessional-app
 	url = git@github.com:Jblew/amerykahospital-personalizedadvice-medicalprofessional-app.git
 	branch = master
 [submodule "typescript-chained-error"]
