@@ -46,3 +46,6 @@
 	path = firestore-roles-vuex-module
 	url = git@github.com:Jblew/firestore-roles-vuex-module.git
 	branch = master
+[submodule "augmented-localized-error-vue"]
+	path = augmented-localized-error-vue
+	url = git@github.com:Jblew/augmented-localized-error-vue.git
