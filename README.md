@@ -121,4 +121,4 @@ Warmly welcomed:
 
 Made with ❤️ by [Jędrzej Lewandowski](https://jedrzej.lewandowski.doctor/):
 
-![Jędrzej Lewandowski — author of the app](docs/assets/author.jpg)
+![Jędrzej Lewandowski — author of the app](docs/assets/author.jpg)# amerykahospital-personalizedadvice-settings
