@@ -47,5 +47,6 @@
 	url = git@github.com:Jblew/firestore-roles-vuex-module.git
 	branch = master
 [submodule "amerykahospital-personalizedadvice-businesslogic"]
-	path = amerykahospital-personalizedadvice-businesslogic
+	path = businesslogic
 	url = https://github.com/Jblew/amerykahospital-personalizedadvice-businesslogic
+	branch = master
