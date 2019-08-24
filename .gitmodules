@@ -50,3 +50,6 @@
 	path = businesslogic
 	url = https://github.com/Jblew/amerykahospital-personalizedadvice-businesslogic
 	branch = master
+[submodule "amerykahospital-personalizedadvice-db"]
+	path = amerykahospital-personalizedadvice-db
+	url = git@github.com:Jblew/amerykahospital-personalizedadvice-db.git
