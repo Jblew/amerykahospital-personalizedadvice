@@ -22,6 +22,10 @@ Ameryka is a small village in the Lake District of Poland. It had been named by 
 
 ## Architecture
 
+![Simplified diagram](diagrams/components.nom.svg)
+Simplified component architecture
+
+
 - Design model: serverless with Google's Firebase
 - Auth flow: Firebase auth + [firebase-roles](https://github.com/Jblew/firestore-roles) system that was developed by me during development of this project
 - Database: Firestore
