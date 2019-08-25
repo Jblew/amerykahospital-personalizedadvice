@@ -1,0 +1,30 @@
+<svg width="538" height="270" version="1.1" baseProfile="full" viewbox="0 0 538 270" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events" style="font-weight:bold; font-size:12pt; font-family:'Calibri', Helvetica, sans-serif;;stroke-width:3;stroke-linejoin:round;stroke-linecap:round"><path d="M249.1 44.5 L250.5 64.5 L250.5 84.5 L250.5 84.5 " style="stroke:#33322E;fill:none;stroke-dasharray:6 6;"></path>
+<path d="M255.3 57.4 L249.6 51.2 L244.7 58.2 L249.1 44.5 Z" style="stroke:#33322E;fill:#33322E;stroke-dasharray:none;"></path>
+<path d="M204.3 44.5 L148 64.5 L148 100 L148 100 L148 135.5 L148 135.5 L131.9 155.5 L131.9 155.5 " style="stroke:#33322E;fill:none;stroke-dasharray:6 6;"></path>
+<path d="M193.6 54 L198.1 46.7 L190 43.9 L204.3 44.5 Z" style="stroke:#33322E;fill:#33322E;stroke-dasharray:none;"></path>
+<path d="M233 104.2 L102.5 135.5 L112.1 155.5 L112.1 155.5 " style="stroke:#33322E;fill:none;stroke-dasharray:6 6;"></path>
+<path d="M221.3 112.5 L226.5 105.8 L218.8 102.1 L233 104.2 Z" style="stroke:#33322E;fill:#33322E;stroke-dasharray:none;"></path>
+<path d="M59.5 115.5 L59.5 135.5 L93.3 155.5 L93.3 155.5 " style="stroke:#33322E;fill:none;stroke-dasharray:6 6;"></path>
+<path d="M64.8 128.8 L59.5 122.2 L54.2 128.8 L59.5 115.5 Z" style="stroke:#33322E;fill:#33322E;stroke-dasharray:none;"></path>
+<path d="M318 42.8 L428 64.5 L428 100 L428 100 L428 135.5 L428 135.5 L416.7 155.5 L416.7 155.5 " style="stroke:#33322E;fill:none;stroke-dasharray:6 6;"></path>
+<path d="M332.1 40.2 L324.5 44.1 L330 50.6 L318 42.8 Z" style="stroke:#33322E;fill:#33322E;stroke-dasharray:none;"></path>
+<path d="M268 106.5 L346.8 135.5 L381.3 155.5 L381.3 155.5 " style="stroke:#33322E;fill:none;stroke-dasharray:6 6;"></path>
+<path d="M282.4 106.1 L274.3 108.8 L278.7 116.1 L268 106.5 Z" style="stroke:#33322E;fill:#33322E;stroke-dasharray:none;"></path>
+<path d="M408 186.5 L408 206.5 L319.3 226.5 L319.3 226.5 " style="stroke:#33322E;fill:none;stroke-dasharray:6 6;"></path>
+<path d="M413.3 199.8 L408 193.2 L402.7 199.8 L408 186.5 Z" style="stroke:#33322E;fill:#33322E;stroke-dasharray:none;"></path>
+<path d="M250.5 115.5 L250.5 135.5 L250.5 171 L250.5 171 L250.5 206.5 L250.5 206.5 L250.5 226.5 L250.5 226.5 " style="stroke:#33322E;fill:none;stroke-dasharray:6 6;"></path>
+<path d="M255.8 128.8 L250.5 122.2 L245.2 128.8 L250.5 115.5 Z" style="stroke:#33322E;fill:#33322E;stroke-dasharray:none;"></path>
+<path d="M105.5 110.8 L210.5 135.5 L210.5 171 L210.5 171 L210.5 206.5 L210.5 206.5 L233 226.5 L233 226.5 " style="stroke:#33322E;fill:none;stroke-dasharray:6 6;"></path>
+<path d="M119.7 108.7 L112 112.3 L117.3 119.1 L105.5 110.8 Z" style="stroke:#33322E;fill:#33322E;stroke-dasharray:none;"></path>
+<rect x="178.5" y="13.5" height="31" width="140" style="stroke:#33322E;fill:#eee8d5;stroke-dasharray:none;"></rect>
+<text x="248.5" y="35" style="text-anchor: middle;">businesslogic</text>
+<rect x="233.5" y="84.5" height="31" width="35" style="stroke:#33322E;fill:#eee8d5;stroke-dasharray:none;"></rect>
+<text x="251" y="106" style="text-anchor: middle;">db</text>
+<rect x="68.5" y="155.5" height="31" width="102" style="stroke:#33322E;fill:#eee8d5;stroke-dasharray:none;"></rect>
+<text x="119.5" y="177" style="text-anchor: middle;">functions</text>
+<rect x="13.5" y="84.5" height="31" width="92" style="stroke:#33322E;fill:#eee8d5;stroke-dasharray:none;"></rect>
+<text x="59.5" y="106" style="text-anchor: middle;">settings</text>
+<rect x="290.5" y="155.5" height="31" width="235" style="stroke:#33322E;fill:#eee8d5;stroke-dasharray:none;"></rect>
+<text x="408" y="177" style="text-anchor: middle;">medicalprofessional-app</text>
+<rect x="152.5" y="226.5" height="31" width="197" style="stroke:#33322E;fill:#eee8d5;stroke-dasharray:none;"></rect>
+<text x="251" y="248" style="text-anchor: middle;">website/deployments</text></svg>

@@ -1,0 +1,15 @@
+[businesslogic]
+
+
+[businesslogic] <-- [db]
+
+[businesslogic] <-- [functions]
+[db] <-- [functions]
+[settings] <-- [functions]
+
+[businesslogic] <-- [medicalprofessional-app]
+[db] <-- [medicalprofessional-app]
+
+[medicalprofessional-app] <-- [website/deployments]
+[db] <-- [website/deployments]
+[settings] <-- [website/deployments]
