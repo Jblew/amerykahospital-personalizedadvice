@@ -1,5 +1,5 @@
 [submodule "amerykahospital-personalizedadvice-serverless"]
-	path = serverless
+	path = functions
 	url = git@github.com:Jblew/amerykahospital-personalizedadvice-serverless
 	branch = master
 [submodule "amerykahospital-personalizedadvice-website"]
