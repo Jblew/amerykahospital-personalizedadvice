@@ -5,4 +5,4 @@ cd "${DIR}"
 
 npm i -g sloc
 
-sloc client-android/app/src/main/java core/src medicalprofessional-app/src serverless/firestore/src serverless/functions/src vue-commons/src firebase-functions-rate-limiter/src firestore-roles/src firestore-roles-manager-ui/src typescript-chained-error/src website/public/_includes website/public/_sass website/roles-manager-app/src/ website/professional-panel/src/
+sloc client-android/app/src/main/java core/src medicalprofessional-app/src db/firestore/src db/orm/src businesslogic/src functions/functions/src vue-commons/src firebase-functions-rate-limiter/src firestore-roles/src firestore-roles-manager-ui/src typescript-chained-error/src website/public/_includes website/public/_sass website/roles-manager-app/src/ website/professional-panel/src/
