@@ -44,7 +44,7 @@
 	branch = master
 [submodule "amerykahospital-personalizedadvice-businesslogic"]
 	path = businesslogic
-	url = https://github.com/Jblew/amerykahospital-personalizedadvice-businesslogic
+	url =  git@github.com:Jblew/amerykahospital-personalizedadvice-businesslogic.git
 	branch = master
 [submodule "amerykahospital-personalizedadvice-db"]
 	path = db
