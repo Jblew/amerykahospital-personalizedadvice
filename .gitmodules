@@ -51,3 +51,6 @@
 	url = git@github.com:Jblew/amerykahospital-personalizedadvice-db.git
         branch = master
 
+[submodule "private-docs"]
+	path = private-docs
+	url = git@github.com:Jblew/amerykahospital-personalizedadvice-private-docs.git
