@@ -14,6 +14,7 @@ This is a technical description of the project. If you would like to learn how t
 
 This system allows to securely send medical advices to patient's mobile phones by sending a deep links to the apps in SMS messages. It consists of an Android app (iOS support may be introduced after android beta tests), an app for medical professionals to send the advices and an app for role management. It is designed in a fully serverless approach using the Google's Firebase BAAS. 
 
+This project is now a part of our contribution to the [Person Centred Care initiavite](https://personcentred.care). (The website is also ours). We belive in the worldchanging potential of PCC and plan to develop solutions that align with the PCC objectives. You can visit the link to find out the clinical evidence (the numbers) that justify the effectiveness of Person centred care.
 
 
 ## History
