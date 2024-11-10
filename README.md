@@ -1,5 +1,8 @@
 [![Proudly part of the Person Centred Care initiative](https://personcentred.care/media/badge.svg)](https://personcentred.care/)
 
+> [!IMPORTANT]  
+> The lifecycle of the app has ended. 
+
 # Personalized advice system for patients of Voievodship Rehabilitation Hospital for Children in Ameryka, Poland
 
 This is a technical description of the project. If you would like to learn how to use it, please go to the [website](https://aplikacja.ameryka.com.pl) instead.
